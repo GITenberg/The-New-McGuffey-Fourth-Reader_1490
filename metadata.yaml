@@ -1,5 +1,5 @@
 _repo: The-New-McGuffey-Fourth-Reader_1490
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: McGuffey, William Holmes
@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '5671'
     url: http://www.gutenberg.org/2009/agents/5671
     wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1490#The-New-McGuffey-Fourth-Reader
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:
