@@ -1,5 +1,5 @@
 _repo: The-New-McGuffey-Fourth-Reader_1490
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compiler:
     agent_name: McGuffey, William Holmes
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Readers'
 - !lcc 'PE'
+- GITenberg
 tableOfContents: Young Benjamin Franklin, by Nathaniel Hawthorne -- A Hard Word --
   A Song, by James Whitcomb Riley -- The Journey of Life. An Allegory -- What I live
   for -- Try Again!, by Charlotte Elizabeth -- True Manliness -- The Miller of the
